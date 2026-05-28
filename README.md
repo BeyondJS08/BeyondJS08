@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BeyondJules08
+- 👋 Hi, I’m @BeyondJS08
 - 👀 I’m interested in Artificial Intelligence and DevGames
 - 🌱 I’m currently learning Introduction to AI
 - 💞️ I’m looking to collaborate on open source developments

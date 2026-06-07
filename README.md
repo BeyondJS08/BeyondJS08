@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BeyondJS08
-- 👀 I’m interested in Artificial Intelligence and DevGames
-- 🌱 I’m currently learning Introduction to AI
+- 👀 I’m interested in Data Science, Artificial Intelligence, Cybersecurity and Game Development
+- 🌱 I’m currently learning about AI Agent's
 - 💞️ I’m looking to collaborate on open source developments
 - ⚡ Fun fact: I love pizza and sushi
 
